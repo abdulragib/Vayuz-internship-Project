@@ -1,0 +1,26 @@
+@media (max-width: 820px)
+{
+    #popular-btn{
+        width: 140px !important;
+    }
+
+    
+}
+
+@media (max-width: 415px)
+{
+    #popular-btn{
+        width: 220px !important;
+    }
+    #banner-heading{
+        font-size: 45px !important;
+        
+      }
+}
+
+@media (max-width: 912px)
+{
+    #popular-btn{
+        width: 190px !important;
+    }
+}
