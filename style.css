@@ -16,6 +16,16 @@
         font-size: 45px !important;
         
       }
+      #nav-bar-left-margin{
+          margin-left: 5px !important;
+      }
+}
+
+@media(max-width: 540px)
+{
+    #nav-bar-left-margin{
+        margin-left: 5px !important;
+    }
 }
 
 @media (max-width: 912px)
